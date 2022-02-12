@@ -1,0 +1,1 @@
+Note `.docx` file does not contain first tale! Added into `.txt` file in `text` folder

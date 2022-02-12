@@ -1,20 +1,21 @@
-# {{ NAME OF TEXT }}
+# G. S. Farnell _Tales from Herodotus_
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+This project aims to publish a digital edition of G. S. Farnell _Tales from Herodotus: with Attic Dialectical Forms_ (MacMillan & Co., London and New York, 1895).
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
+
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Nathan Binns
+
+* Fergus Walsh
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+Scan on Internet Archive https://archive.org/details/talesfromherodo00herogoog
 
-## Progress
-
-{{ indicate progress, or remove entire section if done }}
+Transcribed by Nathan Binns
 
 ## License
 
